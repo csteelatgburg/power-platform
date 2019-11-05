@@ -35,7 +35,7 @@ Power Virtual Agents supports four types of variables:
 
    ![Create variable](media/create-new-variable.png)
 
-3. Specify a name and type for the variable, and then select **Save**.
+3. Specify a name and type for the variable, and then select **Done**.
 
    ![Save variable](media/save-variable.png)
 
